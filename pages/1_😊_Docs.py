@@ -11,3 +11,7 @@ st.set_page_config(
         'About': "# This is a header. This is an *extremely* cool app!"
     }
 )
+
+# 페이지 헤더, 서브헤더 제목 설정
+st.header("나이스")
+st.subheader("ㅋㅋㅋㅋ")
